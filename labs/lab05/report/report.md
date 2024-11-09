@@ -90,18 +90,32 @@ int n
 # Выполнение лабораторной работы
 
 ![рис.1](image/41.jpg){#fig:001 width=70%}
-![рис.2]](image/42.jpg){#fig:001 width=70%}
-![рис.3]](image/43.jpg){#fig:001 width=70%}
-![рис.4]](image/44.jpg){#fig:001 width=70%}
-![рис.5]](image/45.jpg){#fig:001 width=70%}
-![рис.6]](image/46.jpg){#fig:001 width=70%}
-![рис.7]](image/47.jpg){#fig:001 width=70%}
-![рис.8]](image/48.jpg){#fig:001 width=70%}
-![рис.9]](image/49.jpg){#fig:001 width=70%}
-![рис.10]](image/50.jpg){#fig:001 width=70%}
+
+![рис.2](image/42.jpg){#fig:001 width=70%}
+
+![рис.3](image/43.jpg){#fig:001 width=70%}
+
+![рис.4](image/44.jpg){#fig:001 width=70%}
+
+![рис.5](image/45.jpg){#fig:001 width=70%}
+
+
+![рис.6](image/46.jpg){#fig:001 width=70%}
+
+![рис.7](image/47.jpg){#fig:001 width=70%}
+
+![рис.8](image/48.jpg){#fig:001 width=70%}
+
+![рис.9](image/49.jpg){#fig:001 width=70%}
+
+![рис.10](image/50.jpg){#fig:001 width=70%}
+
+
 ![рис.11](image/51.jpg){#fig:001 width=70%}
+
 ![рис.12](image/52.jpg){#fig:001 width=70%}
-![рис.13]](image/53.jpg){#fig:001 width=70%}
+
+![рис.13](image/53.jpg){#fig:001 width=70%}
 
 # Выводы
 При выполнении данной лабораторной работы я приобрела практические навыки работы в Midnight Commander, а также освоила инструкции языка ассемблера mov и int.
